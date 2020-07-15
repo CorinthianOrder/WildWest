@@ -1,0 +1,2 @@
+# WildWest
+Wild West game
